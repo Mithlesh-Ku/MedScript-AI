@@ -1,0 +1,13 @@
+{
+  "name": "Hadi Irfan",
+  "email": "hadiirfanr84@gmail.com",
+  "preferredLanguage": "en",
+  "themePreference": "dark",
+  "notificationSettings": {
+    "push": true,
+    "browser": true,
+    "email": true,
+    "sms": false
+  },
+  "encryptionEnabled": true
+}
